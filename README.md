@@ -1,11 +1,9 @@
-————————
-
 # 📌 Biblioteca de Lectura Genérica para Principiantes en programación C
 
 Esta pequeña biblioteca facilita la lectura de diferentes tipos de datos en C usando funciones simples y amigables. Es ideal para quienes comienzan a programar en C como primer lenguaje.
 Abstrae del uso de sintaxis innecesaria para el comienzo. Como el uso de caracteres especiales o &.
 Se recomienda utilizar la biblioteca de **sdtio.h** una vez se dominen los conceptos de punteros y referencias.
-————————
+
 
 ## ✏ Características
 
@@ -15,7 +13,7 @@ Se recomienda utilizar la biblioteca de **sdtio.h** una vez se dominen los conce
 ⦁ Funciones específicas para cada tipo que retornan el valor directamente, sin que el usuario tenga que hacer cast.
 ⦁ Pensada para ayudar a estudiantes que están aprendiendo C y quieren un input más sencillo y seguro.
 
-————————
+
 
 ## ✏ Uso básico
 
@@ -50,8 +48,6 @@ int main() {
 }
 ```
 
-————————
-
 ## ✏ Recomendaciones y buenas prácticas
 
 ⦁ Siempre valida que las entradas sean correctas (la biblioteca maneja errores básicos y termina el programa en caso de fallo).
@@ -59,18 +55,11 @@ int main() {
 ⦁ Esta biblioteca usa memoria dinámica para adaptar el tamaño de la input y facilitar la lectura desde teclado.
 ⦁ Es una buena base para quienes inician y quieren evitar errores comunes con punteros y casting.
 
-————————
-
 ## ✏ Sobre el curso en Hotmart
 
 Esta biblioteca forma parte del curso "Programación en C para Principiantes" que ofrezco en Hotmart, donde aprenderás conceptos fundamentales, manejo básico de memoria, y cómo crear programas robustos y eficientes desde cero.
 
-————————
-
-
-————————
 
 ## ✏ Cómo funciona (recomendado entender punteros)
 
 Para las mentes curiosas revisar este [enlace](pointer.md).
-————————
